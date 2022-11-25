@@ -16,6 +16,10 @@ Comment in this video link whatever NES, SNES, or GBA games you're hoping to pla
 ...
 
 ...or, don't. Your preference. ✨✨✨
+
+
+Time until The Final Days: 938 days.
+
 <!---
 hoarybat70/hoarybat70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
