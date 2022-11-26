@@ -11,14 +11,10 @@ I'm hoping to create a website with some games online that other people at schoo
 
 Reach me using this link: https://www.youtube.com/watch?v=8EQRGf9GQPU 📫 
 
-Comment in this video link whatever NES, SNES, or GBA games you're hoping to play next and I'll try to add them!
-
-...
-
-...or, don't. Your preference. ✨✨✨
+Comment in this video link whatever NES, SNES, or GBA games you're hoping to play next and I'll try to add them! :)
 
 
-Time until The Final Days: 938 days.
+Time until graduation: 937 days.
 
 <!---
 hoarybat70/hoarybat70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
